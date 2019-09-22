@@ -25,7 +25,7 @@ max flux
 ```
 
 ## Setup
-To run this project, to run one of the posible version v in {back, front} and sample.in:
+To run this project, choose one of the posible version v in {back, front} and sample.in:
 
 ```
 $ make
